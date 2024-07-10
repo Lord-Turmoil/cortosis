@@ -1,0 +1,8 @@
+__pycache__/
+temp/
+clangd/
+headless-lsp
+project/
+.vscode/
+data/
+config.yaml
